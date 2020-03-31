@@ -36,9 +36,9 @@ Pod::Spec.new do |s|
 
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
   
-  s.dependency "RxSwift",           "~> 4.0"
-  s.dependency "RxCocoa",           "~> 4.0"
-  s.dependency "Moya/RxSwift",      "~> 11.0"
+  s.dependency "RxSwift",           "~> 5.1.0"
+  s.dependency "RxCocoa",           "~> 5.1.0"
+  s.dependency "Moya/RxSwift",      "~> 14.0"
   s.dependency "KeychainAccess",    "~> 3.1.2"
   s.dependency "BitcoinKit",        "~> 1.1.1"
 
