@@ -7,8 +7,8 @@ abstract_target 'All' do
     use_frameworks!
     
     # Pods for all targets
-    pod 'RxSwift',          '~> 5.1'
-    pod 'RxCocoa',          '~> 5.1'
+    pod 'RxSwift',          '~> 5.1.0'
+    pod 'RxCocoa',          '~> 5.1.0'
     pod 'Moya/RxSwift',     '~> 14.0'
     pod 'KeychainAccess',   '~> 3.1.2'
     pod 'BitcoinKit',       '1.1.1'
